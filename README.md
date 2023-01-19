@@ -12,6 +12,8 @@ Use the GitHub template (if you have any access to it) or clone this repository 
 git clone https://www.github.com/loicmaes/vue-project-template.git
 ```
 
+When the repository is cloned, just run `npm install` in your terminal (based on your project's directory).
+
 ## How can I run my project?
 
 To run your project, there is two ways :
